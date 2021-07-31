@@ -1,2 +1,2 @@
 # react-proj
-sample
+Sample React Project
